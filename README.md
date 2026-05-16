@@ -75,7 +75,5 @@ It is built for anyone who wants to **earn Telegram Stars for free tasks**, and 
 
 ## Related projects
 
-A network of related Telegram bots, Mini Apps and web tools:
+Related tools:
 
-- [Telegram SMM Services Bot + URL Shortener](https://github.com/SMOService/telegram-smm-services-bot-urlgo)
-- [Telegram Social Media Auto-Posting Bot](https://github.com/SMOFast/telegram-social-media-autoposting-bot)
